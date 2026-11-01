@@ -128,20 +128,7 @@ python biomarker_analysis/statistical_analysis.py
 
 ## Results
 
-The proposed framework achieved:
-
-| Metric | Value |
-|---------|-------|
-| Test Accuracy | 75.0% |
-| Precision | 66.7% |
-| Recall | 90.9% |
-| F1-score | 0.769 |
-| ROC-AUC | 0.881 |
-
-After Benjamini–Hochberg false discovery rate correction, two chromatin texture biomarkers remained statistically significant:
-
-- GLCM Dissimilarity
-- GLCM Homogeneity
+Results are part of a manuscript in preparation and will be added here once it is published.
 
 ---
 
